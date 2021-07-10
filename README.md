@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Javascript vanilla, node-js, webpack**
 
-- 👯 I’m looking to collaborate with **companies**
+- 🤝 I’m looking to collaborate with **companies**
 
-- 🤝 I’m following a [TomorrowDevs Projects](https://www.tomorrowdevs.com/) to improve my skills
+- 🧑‍💻 I’m following a [TomorrowDevs Projects](https://www.tomorrowdevs.com/) to improve my skills
 
 - 📫 How to reach me [Email](mailto::santi_andrea@hotmail.it)
 
