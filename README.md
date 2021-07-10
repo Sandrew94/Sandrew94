@@ -40,7 +40,7 @@
 | Poker Game   | I build a random generator of poker's cards with their hand values  | Javascript, Sass, Parcel, Babel -- Jest -- GitHub Projects| [poker-game](https://poker-game-td.netlify.app/)    |
 | Fizz Buzz  | In this project i solve the challeges of each steps (1-6)  | Javascript -- Jest -- GitHub Projects| [FB__GitHub](https://github.com/Sandrew94/fizzbuzz)  |
 | Forkify Tutorial Project  | This is a tutorial project where i practice to use OOP   | Javascript, Sass, Parcel | [Forkify](https://forkify-tutorial.netlify.app/)|
-| CodeWars Challenges  | I publish my solution on Kata challeges on CodeWars Website | Javascript | [CW__Github](https://github.com/Sandrew94/CodeWars___Challenges) |
+| CodeWars Challenges  | I publish my solution of Kata challeges of CodeWars Website | Javascript | [CW__Github](https://github.com/Sandrew94/CodeWars___Challenges) |
 | Responsive Landing Page| Full responsive landing pages | Html, Css | [RLP](https://trusting-hypatia-9de1b1.netlify.app/) |
 | Hotel Homepage    | An example of Hotel Page (destkop ONLY)  | Html,css | [HH](https://eloquent-payne-143816.netlify.app/) |
 
