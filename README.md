@@ -17,6 +17,18 @@
 -----
 
 
+<h3 align="left">Brief introduction:</h3>
+
+I am a Junior and is currently following projects on TomorrowDevs, where I am followed by Mentor to improve myself more and more.
+
+
+I really like all the company's that they have a philosophy on training, I'm a curious person who always likes to learn new things and have stimulating experiences, especially with ambitious projects. 
+The satisfaction you get at the end of a project like this is priceless in my opinion.
+
+
+-----
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/andreasanti15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andreasanti15" height="30" width="40" /></a>
