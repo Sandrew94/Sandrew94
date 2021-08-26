@@ -3,9 +3,9 @@
 
 <br>
 
-- 🔭 I’m currently working on [poker projects](http://poker-game-td.netlify.app/)
+- 🔭 I’m currently working on [Hangman Game](https://github.com/Sandrew94/hangman-game)
 
-- 🌱 I’m currently learning **Javascript vanilla, node-js, webpack**
+- 🌱 I’m currently learning **Typescript, webpack**
 
 - 🤝 I’m looking to collaborate with **companies**
 
@@ -49,6 +49,7 @@ The satisfaction you get at the end of a project like this is priceless in my op
 
 | Project Name | Description | Build with |Deploy |
 |---|---|---|---|
+| Hangman Game   | I build the game of the hangman, choose the correct word or die  | Typescript, Webpack, Sass -- OOP -- GitHub Projects| [Hangman Game](https://hangman-game-td.netlify.app/)    |
 | Poker Game   | I build a random generator of poker's cards with their hand values  | Javascript, Sass, Parcel, Babel -- Jest -- GitHub Projects| [poker-game](https://poker-game-td.netlify.app/)    |
 | Fizz Buzz  | In this project i solve the challeges of each steps (1-6)  | Javascript -- Jest -- GitHub Projects| [FB__GitHub](https://github.com/Sandrew94/fizzbuzz)  |
 | Forkify Tutorial Project  | This is a tutorial project where i practice to use OOP   | Javascript, Sass, Parcel | [Forkify](https://forkify-tutorial.netlify.app/)|
