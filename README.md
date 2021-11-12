@@ -3,9 +3,9 @@
 
 <br>
 
-- 🔭 I’m currently working on [Hangman Game](https://github.com/Sandrew94/hangman-game)
+- 🔭 I’m currently working on [User-onboarding](https://github.com/Sandrew94/user-onboarding) and i'm collaborating in a group project [Ecommerce-TD](https://github.com/Sandrew94/Ecommerce-TD)
 
-- 🌱 I’m currently learning **Typescript, webpack**
+- 🌱 I’m currently learning ** React,Typescript **
 
 - 🤝 I’m looking to collaborate with **companies**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Brief introduction:</h3>
 
-I am a Junior and is currently following projects on TomorrowDevs, where I am followed by Mentor to improve myself more and more.
+I am a Junior and i'm is currently following projects on TomorrowDevs, where I am followed by Mentor to improve myself more and more.
 
 
 I really like all the company's that they have a philosophy on training, I'm a curious person who always likes to learn new things and have stimulating experiences, especially with ambitious projects. 
@@ -49,7 +49,9 @@ The satisfaction you get at the end of a project like this is priceless in my op
 
 | Project Name | Description | Build with |Deploy |
 |---|---|---|---|
-| Hangman Game   | I build the game of the hangman, choose the correct word or die  | Typescript, Webpack, Sass -- OOP -- GitHub Projects| [Hangman Game](https://hangman-game-td.netlify.app/)    |
+|Ecommerce-TD| This is a group project where we develop a E-commerce SPA (in progress...) | MERN stack with redux/context | [Ecommerce-TD](https://github.com/Sandrew94/Ecommerce-TD) |
+|User Onboarding | I learned react and react router with this project and i will implement Strapi as backend (in progress...) (Desktop/Tablet only) | React with hooks, styled-components, webpack | [User-onboarding](https://user-onboarding-td.netlify.app/)  |
+| Hangman Game   | I build the game of the hangman, choose the correct word or die (Desktop/Tablet only) | Typescript, Webpack, Sass -- OOP -- GitHub Projects| [Hangman Game](https://hangman-game-td.netlify.app/)    |
 | Poker Game   | I build a random generator of poker's cards with their hand values  | Javascript, Sass, Parcel, Babel -- Jest -- GitHub Projects| [poker-game](https://poker-game-td.netlify.app/)    |
 | Fizz Buzz  | In this project i solve the challeges of each steps (1-6)  | Javascript -- Jest -- GitHub Projects| [FB__GitHub](https://github.com/Sandrew94/fizzbuzz)  |
 | Forkify Tutorial Project  | This is a tutorial project where i practice to use OOP   | Javascript, Sass, Parcel | [Forkify](https://forkify-tutorial.netlify.app/)|
