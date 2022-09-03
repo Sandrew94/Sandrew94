@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Andrea Santi</h1>
-<h3 align="center">A passionate frontend developer junior from Italy (Lucca)</h3>
+<h3 align="center">Frontend developer from Italy (Lucca)</h3>
 
 <br>
 
-- 🔭 I’m currently working on [User-onboarding](https://github.com/Sandrew94/user-onboarding) ([Deploy](https://user-onboarding-td.netlify.app/)) and i'm collaborating in a group project [Ecommerce-TD](https://github.com/Sandrew94/Ecommerce-TD)
+- 🔭 I’m currently working on [DesignoMultipage](https://github.com/Sandrew94/designo-multipace) ([Deploy](https://designo-multipage-iota.vercel.app/))
 
-- 🌱 I’m currently learning ** React,Typescript **
+- 🌱 I’m currently learning ** Next,GSAP **
 
 - 🤝 I’m looking to collaborate with **companies**
-
-- 🧑‍💻 I’m following a [TomorrowDevs Projects](https://www.tomorrowdevs.com/) to improve my skills
 
 - 📫 How to reach me [Email](mailto::santi_andrea@hotmail.it)
 
@@ -19,11 +17,14 @@
 
 <h3 align="left">Brief introduction:</h3>
 
-I am a Junior and i'm is currently following projects on TomorrowDevs, where I am followed by Mentor to improve myself more and more.
+I am a passionate FrontEnd Developer, in the last 2 years i discovered how much i like to code. 
+It feels like i find my dream job! I really like to improve myself more and more.
 
+During my growth i have studied with the guide of the mentors of TomorrowDevs, an italian program that have the focus to improve the future developers.
 
 I really like all the company's that they have a philosophy on training, I'm a curious person who always likes to learn new things and have stimulating experiences, especially with ambitious projects. 
 The satisfaction you get at the end of a project like this is priceless in my opinion.
+
 
 
 -----
@@ -49,8 +50,9 @@ The satisfaction you get at the end of a project like this is priceless in my op
 
 | Project Name | Description | Build with |Deploy |
 |---|---|---|---|
-|Ecommerce-TD| This is a group project where we develop a E-commerce SPA (in progress...) | MERN stack with redux/context | [Ecommerce-TD](https://github.com/Sandrew94/Ecommerce-TD) |
-|User Onboarding | I learned react and react router with this project and i will implement Strapi as backend (in progress...) (Desktop/Tablet only) | React with hooks, styled-components, webpack | [User-onboarding](https://user-onboarding-td.netlify.app/)  |
+|DesignoMultipage| I tried this project to increase my expertise with NextJs and GSAP for animations with StyledComponents for the styling | NextJS - GSAP - Cypress - Jest - StyledComponents | [DesignoMultipage](https://github.com/Sandrew94/designo-multipace) |
+|Ecommerce-TD| This is a group project where we develop a E-commerce SPA  | MERN stack with redux/context | [Ecommerce-TD](https://github.com/Sandrew94/Ecommerce-TD) |
+|User Onboarding | I learned react and react router with this project and i will implement Strapi as backend (Desktop/Tablet only) | React with hooks, styled-components, webpack | [User-onboarding](https://user-onboarding-td.netlify.app/)  |
 | Hangman Game   | I build the game of the hangman, choose the correct word or die (Desktop/Tablet only) | Typescript, Webpack, Sass -- OOP -- GitHub Projects| [Hangman Game](https://hangman-game-td.netlify.app/)    |
 | Poker Game   | I build a random generator of poker's cards with their hand values  | Javascript, Sass, Parcel, Babel -- Jest -- GitHub Projects| [poker-game](https://poker-game-td.netlify.app/)    |
 | Fizz Buzz  | In this project i solve the challeges of each steps (1-6)  | Javascript -- Jest -- GitHub Projects| [FB__GitHub](https://github.com/Sandrew94/fizzbuzz)  |
